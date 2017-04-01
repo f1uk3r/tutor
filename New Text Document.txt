@@ -1,0 +1,2486 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head>
+    <link rel="shortcut icon"
+	href="https://c.urbanpro.com/assets/favicon-5ed403ae1edbad9c901a1a72795350fc.ico" type="image/x-icon" />
+
+        <!-- Host Name : prod-app-i-004a17cb0a13c20e7 -->
+        
+            
+            <title>Class IX-X Tuition</title>
+            
+            <meta name="robots" content="noindex,follow"/>
+        
+       	<meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+		
+		
+		
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="layout" content="standAloneFullPage"/>
+
+<link rel="stylesheet" href="https://c.urbanpro.com/assets/needPost_module-aa1d1ab8c89601c141cb326bfc28e3e3.css"/> 
+<style type="text/css">
+#closeWidget img {display: none}
+.seoBgImage:before {
+	content: ".";
+    font-size: 0px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background-color: #000;
+    opacity: 0.30;
+    width: 100%;
+    height: 100%
+}
+</style>
+
+    </head>
+
+	<body>
+
+<div class="searchSeoPage searchBlock">
+	
+<div class="slider">
+	<div class="numberofneeds"></div>
+    <div class="prev"></div>
+    <div class="next"></div>    
+	<div class="onlySlide">
+    <div class="slidesContainer">
+    </div>    
+</div>    
+</div>    
+
+
+
+						 
+</div>
+
+		
+
+<div style="width:100%;height:51px;z-index: 999;float:left;margin-bottom:15px; " class="gradient-ribbon">
+	<div class="d-cont">
+	
+	 <a href="/" class="ml-15 hideSmall-950 webLogo" style="float:left;" rel="external">
+	 <img src="https://c.urbanpro.com/assets/new-ui/urbanpro_logo-7acec015abcfea7d87a710637246e018.svg" alt="Urbanpro" class="d-logo" style="margin-top:8px;"/>
+	 </a>
+	 <a href="javascript:void(0)" class="backIcon floatLeft none"></a>
+	 <a href="/" class="logoCont text-deco-none show-below-950" rel="external" style="margin-top: 19px !important; margin-left: 60px !important;" data-position="inline" data-role="none">
+		<span class="logoTxt">UrbanPro</span>
+	</a> 
+		
+	 <div class="floatRight top_right_container">
+	 
+	
+	
+		
+				
+				
+				<div style="position:relative;">
+				<a class="member-cont" style=" background-image:url(
+					https://c.urbanpro.com/assets/common_placeholder-a01cc658c8d9584c6479db4167700eb0.png);">
+					<div class="account_menu"></div>
+					<img src="https://c.urbanpro.com/assets/new-ui/account/myaccount_icon-9d555e63eb4ed4c6b22914528e3aa4cc.png" class="account_icon"/>
+				</a> 
+			<div class="member-details">
+				<ul>
+					
+
+
+
+
+
+ 
+												
+							<li class="member-links">							
+								<a href="/signup?_p=Signup" pageTracking="true">Sign Up</a>
+							</li>
+							<li class="member-links">
+								<a href="/login/auth">Login</a>
+							</li>
+						
+				</ul>
+			</div>
+			</div>
+	
+	</div>						
+				
+	</div>
+</div>
+
+		
+		<div class="fullScreenContainer">
+		<!-- body: BEGIN -->
+			
+
+<div class="full_container_width">
+
+	<div class="seoBgImageContainer">
+
+		
+			<div class="seoBgImage" style='background-image:url(https://s3-ap-southeast-1.amazonaws.com/tv-prod/seoSearchImages/334-tuition-web.jpg)'></div>
+
+			<div class="gradientOverlay"></div>	
+
+		
+	
+	</div>
+
+
+
+	</div>
+		<input type="hidden" name="latitude" id="latitude_form"/>
+		<input type="hidden" name="longitude" id="longitude_form"/>
+		<input type="hidden" name="map_location_name" id="map_location_name_form"/>
+		<input type="hidden" id="catName" value="Science in Class IX-X Tuition"/>
+		<input type="hidden" id="catNameForHeader" value="Class IX-X Tuition"/>
+		<input type="hidden" id="parentCatName" value=""/>
+		<input type="hidden" id="source"  value="HOME_PAGE_NEED_POPUP_18_3_2016" />
+		<input type="hidden" id="catEntered"  value="Science in Class IX-X Tuition" />
+		<input type="hidden" id="locName" value="400703 (Vashi, Mumbai)"/>
+		<input type="hidden" id="uId" value="149-309-1581"/>
+		<input type="hidden" id="needFromBranchId" value=""/>
+
+
+
+
+
+<style type="text/css">
+/**datepicker**/
+.ui-datepicker-header   {background: #ECECEC !important;border: 0px !important;  margin-top: 1px;}
+.ui-datepicker-header .mtz-monthpicker-year {width: 100%;color: #6e6e6e !important;background-color: #fff !important;height: 32px;}
+table.mtz-monthpicker {width: 100%;margin-top: 1px;border-collapse: collapse;}
+td.ui-state-default.mtz-monthpicker.mtz-monthpicker-month {background: #FFF !important;color: #909090;}
+.ui-datepicker-monthYearpicker  {border:0px !important; margin-left:100px; margin-top:36px;}
+.ui-datepicker-title {color: #6e6e6e;}
+.ui-datepicker-trigger {display: none}
+.need_post_container { 
+    z-index: 10000;
+}
+</style>
+
+
+<a href="#" id="closeWidget" style="float:right;position:absolute;z-index:15;right:5px; top:5px;">
+<img src="https://c.urbanpro.com/assets/icons/close-92244218c74f7e6e5f78cbc3dd94798b.png" /></a>
+<div class="need_post_container" id="dynamSlider">
+<input type="text" style="display:none" />
+<div class="matchingReq_toast" style="display:none">Please answer the below questions to see the contact information
+<span class="toastArw"></span>
+</div> 
+<div class="needInnerDiv" >
+
+
+
+
+<!-- If its from public profile page then do not show matching provider on need flow pop up -->
+	<div class="match_found"  style="display:block">
+		<p>Matches Found</p>
+			<div class="matchingPros">
+				
+
+			<div class="match_image floatRight">
+				
+					<img src="https://s3-ap-southeast-1.amazonaws.com/tv-prod/member/photo/939554-medium130.jpg" width="50" height="50" />
+				
+					<img src="https://s3-ap-southeast-1.amazonaws.com/tv-prod/member/photo/1246547-medium130.jpeg" width="50" height="50" />
+				
+					<img src="https://s3-ap-southeast-1.amazonaws.com/tv-prod/member/photo/36080-medium130.jpg" width="50" height="50" />
+				
+					<img src="https://s3-ap-southeast-1.amazonaws.com/tv-prod/member/photo/510309-medium130.jpg" width="50" height="50" />
+				
+					<img src="https://s3-ap-southeast-1.amazonaws.com/tv-prod/member/photo/49329-medium130.jpg" width="50" height="50" />
+				
+					<img src="https://s3-ap-southeast-1.amazonaws.com/tv-prod/member/photo/698884-medium130.jpg" width="50" height="50" />
+				
+					<img src="https://s3-ap-southeast-1.amazonaws.com/tv-prod/member/photo/688529-medium130.jpg" width="50" height="50" />
+				
+			</div>
+
+
+	<div class="match_providers_count">
+	+56743
+	</div>
+
+
+	
+			</div>
+	</div>
+		
+
+
+
+		<div class="progressBar">
+			<div class="progressColor"></div>
+		</div>
+		<div class="slideHider">
+		<div class="dynamSliderWrapper">
+
+			<!-- only for location question render below div -->
+			
+			<div class="locationQuestion slides none">
+			
+				<div class="locationWithoutMap">
+					<p class="headline text-center">What is your location?</p>
+					<input type="text" name="pincode" id="pincode" value="" placeholder="Enter Your Location or Pin code" class="mt-20 width100p localityEventService" readonly="" onclick="this.removeAttribute('readonly')" onfocus="this.removeAttribute('readonly')"/>
+					<input type="text" name="pincode2" id="pincode2" readonly="" style="display: none;"/>
+					
+					<p class="textAlignRit"><span class="outsideIndia">Are you outside India?</span></p>
+
+
+					<input type="hidden" value="" id="needOutsideIndia" />
+					
+					<input type="button" class="locationSubmit primaryButton mt-30" value="Next" disabled="disabled"/>
+				</div>
+
+			</div>
+			<!-- end of location question -->
+			
+			
+
+
+
+<form onsubmit="event.preventDefault()" id="needForm" novalidate>
+	<input type="hidden" name="source" id="source" value="HOME_PAGE_NEED_POPUP_18_3_2016"> 
+	<input type="hidden" name="topicId" value="149"> 	
+	<input type="hidden" name="localityId" value="" id="localityId">
+	<input type="hidden" name="needFromBranchId" value="">
+	<input type="hidden" name="parentCategoryName" id="parentCategoryName"
+		value="">
+	<input type="hidden" name="latitude" id="latitude"/>
+	<input type="hidden" name="longitude" id="longitude"/>
+	<input type="hidden" name="map_location_name" id="map_location_name"/>
+	<input type="hidden" name="removeDistnaceSlide" id="removeDistnaceSlide"/>
+	<input type="hidden" name="suspenseNeedId" id="suspenseNeedId"/>
+	<!-- added by naresh to send topic name and locality to track flowfunnel report-->
+	<input type="hidden" name="topicName" id="topicName"
+		value="Class IX-X Tuition"> <input type="hidden"
+		name="localityName" id="localityName"
+		value=", ">
+	
+
+<!-- Need flow changes for international needs -->
+<div class="slides internationalNeedSlide hideSlides" id="internationalSlide">
+	<p class="headline text-center">What is your location?</p>
+	<p class="headline">Please select an option</p>
+	<div class="refineFeild radioFeild foreignField">
+		<label>
+			<input type="radio" name="internationalOption" value="online" id="option1" />
+			<span></span>
+			I want to take online classes via Internet 
+		</label>
+	</div>
+	<div class="refineFeild radioFeild foreignField">
+		<label>
+			<input type="radio" name="internationalOption" value="travel" id="option2" />
+			<span></span>
+			I am planning to travel to India to attend classes or training
+		</label>
+	</div>
+	<div class="travellingLocation">
+		<p class="fontSize15">Which City in India are you travelling to?</p>
+		<input type="text" name="cityName" id="cityName" placeholder="Please enter the city in India" autocomplete="off" />
+	</div>
+	<div class="textAlignCen">
+		<input type="button" data-role="none"
+		class="primaryButton foreignSlideSubmit" value="Next" />
+	</div>
+</div>	
+<!-- End of Need flow changes for international needs -->
+
+
+<!-- Need Topic Attribute Befor Post Block -->
+	
+		
+		
+		
+				 
+			
+				
+
+<div class="slides  locationSlide   " id="attr-558" name="attr-558" style="width:483px;">
+	<input type="hidden" name="slides-attrInternalValue"
+		id="slides-attrInternalValue" value="Class Location" />
+	
+	<div class="container ">
+		
+		
+		
+		
+		<div class="headline">
+			
+				Which location would you prefer for Class IX-X Tuition?
+			
+		</div>
+		
+
+		<!-- Search field code added for searching the list in checkbox or radio button which has list greater than or equal to 8 -->
+		
+
+		
+			
+			
+				<div class="condiCheckBox refineFeild checkFeild">
+					<label for="homeTutions"> <input type="hidden" name="_homeTutions" /><input type="checkbox" name="homeTutions" id="homeTutions" class="classLocation"  /> My Home
+						<span></span>
+					</label>
+				</div>
+			
+			
+				<div class="condiCheckBox refineFeild checkFeild">
+					<label for="regularClasses"> <input type="hidden" name="_regularClasses" /><input type="checkbox" name="regularClasses" id="regularClasses" class="checkBoxCondition classLocation distanceSlide" onclick="if (this.checked) { document.getElementById(&#39;distanceToTravel&#39;).style.display = &#39;&#39;; } else { document.getElementById(&#39;distanceToTravel&#39;).style.display = &#39;none&#39;;}"  />
+						<span></span> I am willing to travel
+					</label>
+				</div>
+			
+			
+			
+				<p class="onlineStepOne mb-10">Want to learn Online via Internet? <span class="selectOnline">Click here</span></p>
+				<div class="onlineStepTwo">
+					<p class="fontSize16 mb-5">Want to learn Online via Internet?</p>
+					<p class="mb-10 fontSize14">We can help you find a Tutor or Coaching Center which will teach you remotely via Video Chat, Skype, Google Hangout or other Internet based learning technology.</p>
+					<p class="mb-15 fontSize16 mt-10">Do you want to consider Internet based learning option?</p>
+					<p><span class="onlineClsYes">YES</span><span class="onlineClsNo">NO</span></p>
+				</div>
+				<div class="condiCheckBox refineFeild checkFeild onlineStepThree">
+					<label for="onlineClasses"> <input type="hidden" name="_onlineClasses" /><input type="checkbox" name="onlineClasses" id="onlineClasses" class="classLocation"  /> Online (video chat via skype, google hangout etc)
+						<span></span>
+					</label>
+				</div>
+			
+		
+		
+	</div>
+	<div class="clear"></div> 
+	
+		<input type="button" data-role="none"
+		class="slideSubmit primaryButton" value="Next" disabled="disabled" />
+	
+</div>
+
+
+			<!-- if regular class and institute location selectd then we are hard coding how far you want to travel question -->
+			
+			
+				
+
+<div class="slides  locationSlide   distanceSlide" id="attr-558distanceSlide" name="attr-558" style="width:483px;display:none;">
+	<input type="hidden" name="slides-attrInternalValue"
+		id="slides-attrInternalValue" value="Class Location" />
+	
+	<div class="container ">
+		
+		
+		
+		
+		<div class="headline">
+			
+				How far are you willing to travel?
+			
+		</div>
+		
+
+		<!-- Search field code added for searching the list in checkbox or radio button which has list greater than or equal to 8 -->
+		
+
+		
+		<input type="hidden" class="lv-distanceSlide" value="attr-558">
+			<div class="c-conduct2 radioCustomScroll customScroll homeScroll ">
+				<div class="condiRadio refineFeild radioFeild">
+					<label for="five"> <input type="radio" name="distanceToTravel"
+						id="five" class="classLocation" value="5" /> 5 kms<span></span>
+					</label>
+				</div>
+				<div class="condiRadio refineFeild radioFeild">
+					<label for="ten"> <input type="radio" name="distanceToTravel"
+						id="ten" class="classLocation" value="10" /> 10 kms<span></span>
+					</label>
+				</div>
+				<div class="condiRadio refineFeild radioFeild">
+					<label for="fifteen"> <input type="radio" name="distanceToTravel"
+						id="fifteen" class="classLocation" value="15" />
+						15 kms<span></span>
+					</label>
+				</div>
+				<div class="condiRadio refineFeild radioFeild">
+					<label for="twenty"> <input type="radio" name="distanceToTravel"
+						id="twenty" class="classLocation" value="20" />
+						20 kms<span></span>
+					</label>
+				</div>
+				<div class="condiRadio refineFeild radioFeild">
+					<label for="twentyFive"> <input type="radio" name="distanceToTravel"
+						id="twentyFive" class="classLocation" value="25" />
+						25 kms<span></span>
+					</label>
+				</div>
+			</div>
+		
+	</div>
+	<div class="clear"></div> 
+	
+		<input type="button" data-role="none"
+		class="slideSubmit primaryButton" value="Next" disabled="disabled" />
+	
+</div>
+
+				
+			
+		
+				 
+			
+				
+
+<div class="slides   " id="attr-18276" name="attr-18276" style="width:483px;">
+	<input type="hidden" name="slides-attrInternalValue"
+		id="slides-attrInternalValue" value="Class IX-X Boards" />
+	
+	<div class="container ">
+		
+		
+		
+		
+		<div class="headline">
+			
+				Which board of education are you looking for?
+			
+		</div>
+		
+
+		<!-- Search field code added for searching the list in checkbox or radio button which has list greater than or equal to 8 -->
+		
+
+		
+			
+				<div class="c-conduct2 radioCustomScroll customScroll homeScroll divSearchContainer ">
+					
+					<div class="listContainer">
+						
+							<div class="condiRadio refineFeild radioFeild divSearchElement">
+								<label for="cond-180"><input
+									id="cond-180" type="radio" class="conditionRadio" name="6"
+									
+									value="180"> CBSE <span></span>
+								</label>
+							</div>
+						
+							<div class="condiRadio refineFeild radioFeild divSearchElement">
+								<label for="cond-184"><input
+									id="cond-184" type="radio" class="conditionRadio" name="6"
+									
+									value="184"> ICSE <span></span>
+								</label>
+							</div>
+						
+							<div class="condiRadio refineFeild radioFeild divSearchElement">
+								<label for="cond-188"><input
+									id="cond-188" type="radio" class="conditionRadio" name="6"
+									
+									value="188"> State <span></span>
+								</label>
+							</div>
+						
+							<div class="condiRadio refineFeild radioFeild divSearchElement">
+								<label for="cond-190"><input
+									id="cond-190" type="radio" class="conditionRadio" name="6"
+									
+									value="190"> International Baccalaureate <span></span>
+								</label>
+							</div>
+						
+							<div class="condiRadio refineFeild radioFeild divSearchElement">
+								<label for="cond-1255"><input
+									id="cond-1255" type="radio" class="conditionRadio" name="6"
+									
+									value="1255"> IGCSE <span></span>
+								</label>
+							</div>
+						
+					</div>
+					
+				</div>
+
+			
+		
+	</div>
+	<div class="clear"></div> 
+	
+		<input type="button" data-role="none"
+		class="slideSubmit primaryButton" value="Next" disabled="disabled" />
+	
+</div>
+
+
+			<!-- if regular class and institute location selectd then we are hard coding how far you want to travel question -->
+			
+			
+		
+				 
+			
+				
+
+<div class="slides   " id="attr-18225" name="attr-18225" style="display:none;width:483px;">
+	<input type="hidden" name="slides-attrInternalValue"
+		id="slides-attrInternalValue" value="Class IX-X CBSE Tuition" />
+	
+	<div class="container ">
+		
+		
+		
+			
+			
+				<input type="hidden" class="lv-180"
+					value="attr-18225">
+			
+		
+		
+		<div class="headline">
+			
+				Which of the following CBSE subjects do you need tuition for?
+			
+		</div>
+		
+
+		<!-- Search field code added for searching the list in checkbox or radio button which has list greater than or equal to 8 -->
+		
+		<div class="attributeSearchContainer">
+		<div class="pos-rel">
+		<input type="text" class="search" placeholder="Search..."/>
+		<span class="clearSearch">x</span>
+		</div>
+		<p class="noSearchResults">No options found matching <span class="searchString"></span></p>
+		</div>
+		
+
+		
+			
+				<div class="c-conduct2 customScroll homeScroll divSearchContainer ">
+					
+					<div class="listContainer">
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1579"><input type="checkbox"
+									id="checkboxId1579" class="checkBoxCondition "
+									name="309" value="1579"
+									style="width: 15px; height: 15px"
+									 />
+									English <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1580"><input type="checkbox"
+									id="checkboxId1580" class="checkBoxCondition "
+									name="309" value="1580"
+									style="width: 15px; height: 15px"
+									 />
+									Mathematics <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1581"><input type="checkbox"
+									id="checkboxId1581" class="checkBoxCondition "
+									name="309" value="1581"
+									style="width: 15px; height: 15px"
+									checked="checked" />
+									Science <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1582"><input type="checkbox"
+									id="checkboxId1582" class="checkBoxCondition "
+									name="309" value="1582"
+									style="width: 15px; height: 15px"
+									 />
+									Social science <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1583"><input type="checkbox"
+									id="checkboxId1583" class="checkBoxCondition "
+									name="309" value="1583"
+									style="width: 15px; height: 15px"
+									 />
+									Hindi <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1584"><input type="checkbox"
+									id="checkboxId1584" class="checkBoxCondition "
+									name="309" value="1584"
+									style="width: 15px; height: 15px"
+									 />
+									Sanskrit <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1585"><input type="checkbox"
+									id="checkboxId1585" class="checkBoxCondition "
+									name="309" value="1585"
+									style="width: 15px; height: 15px"
+									 />
+									French <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1586"><input type="checkbox"
+									id="checkboxId1586" class="checkBoxCondition "
+									name="309" value="1586"
+									style="width: 15px; height: 15px"
+									 />
+									German <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1587"><input type="checkbox"
+									id="checkboxId1587" class="checkBoxCondition "
+									name="309" value="1587"
+									style="width: 15px; height: 15px"
+									 />
+									Spanish <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1589"><input type="checkbox"
+									id="checkboxId1589" class="checkBoxCondition "
+									name="309" value="1589"
+									style="width: 15px; height: 15px"
+									 />
+									Marathi <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1590"><input type="checkbox"
+									id="checkboxId1590" class="checkBoxCondition "
+									name="309" value="1590"
+									style="width: 15px; height: 15px"
+									 />
+									Bengali <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1591"><input type="checkbox"
+									id="checkboxId1591" class="checkBoxCondition "
+									name="309" value="1591"
+									style="width: 15px; height: 15px"
+									 />
+									Urdu <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1592"><input type="checkbox"
+									id="checkboxId1592" class="checkBoxCondition "
+									name="309" value="1592"
+									style="width: 15px; height: 15px"
+									 />
+									Tamil <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1593"><input type="checkbox"
+									id="checkboxId1593" class="checkBoxCondition "
+									name="309" value="1593"
+									style="width: 15px; height: 15px"
+									 />
+									Telugu <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1594"><input type="checkbox"
+									id="checkboxId1594" class="checkBoxCondition "
+									name="309" value="1594"
+									style="width: 15px; height: 15px"
+									 />
+									Kannada <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1595"><input type="checkbox"
+									id="checkboxId1595" class="checkBoxCondition "
+									name="309" value="1595"
+									style="width: 15px; height: 15px"
+									 />
+									Malayalam <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1596"><input type="checkbox"
+									id="checkboxId1596" class="checkBoxCondition "
+									name="309" value="1596"
+									style="width: 15px; height: 15px"
+									 />
+									Punjabi <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1598"><input type="checkbox"
+									id="checkboxId1598" class="checkBoxCondition "
+									name="309" value="1598"
+									style="width: 15px; height: 15px"
+									 />
+									Japanese <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1599"><input type="checkbox"
+									id="checkboxId1599" class="checkBoxCondition "
+									name="309" value="1599"
+									style="width: 15px; height: 15px"
+									 />
+									Gujarati <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1600"><input type="checkbox"
+									id="checkboxId1600" class="checkBoxCondition "
+									name="309" value="1600"
+									style="width: 15px; height: 15px"
+									 />
+									Oriya <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1601"><input type="checkbox"
+									id="checkboxId1601" class="checkBoxCondition "
+									name="309" value="1601"
+									style="width: 15px; height: 15px"
+									 />
+									Manipuri <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1624"><input type="checkbox"
+									id="checkboxId1624" class="checkBoxCondition "
+									name="309" value="1624"
+									style="width: 15px; height: 15px"
+									 />
+									Elements of business <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1625"><input type="checkbox"
+									id="checkboxId1625" class="checkBoxCondition "
+									name="309" value="1625"
+									style="width: 15px; height: 15px"
+									 />
+									Accountancy <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1628"><input type="checkbox"
+									id="checkboxId1628" class="checkBoxCondition "
+									name="309" value="1628"
+									style="width: 15px; height: 15px"
+									 />
+									Information and Comunication Technology <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1630"><input type="checkbox"
+									id="checkboxId1630" class="checkBoxCondition "
+									name="309" value="1630"
+									style="width: 15px; height: 15px"
+									 />
+									Computer Practices <span></span> </label>
+							</div>
+						
+					</div>
+					
+					<div class="clear"></div>
+				</div>
+			
+		
+	</div>
+	<div class="clear"></div> 
+	
+		<input type="button" data-role="none"
+		class="slideSubmit primaryButton" value="Next" disabled="disabled" />
+	
+</div>
+
+
+			<!-- if regular class and institute location selectd then we are hard coding how far you want to travel question -->
+			
+			
+		
+				 
+			
+				
+
+<div class="slides   " id="attr-18280" name="attr-18280" style="display:none;width:483px;">
+	<input type="hidden" name="slides-attrInternalValue"
+		id="slides-attrInternalValue" value="Class IX-X State Syllabus Tuition" />
+	
+	<div class="container ">
+		
+		
+		
+			
+			
+				<input type="hidden" class="lv-188"
+					value="attr-18280">
+			
+		
+		
+		<div class="headline">
+			
+				Which of the following State syllabus subjects do you require tuition for?
+			
+		</div>
+		
+
+		<!-- Search field code added for searching the list in checkbox or radio button which has list greater than or equal to 8 -->
+		
+		<div class="attributeSearchContainer">
+		<div class="pos-rel">
+		<input type="text" class="search" placeholder="Search..."/>
+		<span class="clearSearch">x</span>
+		</div>
+		<p class="noSearchResults">No options found matching <span class="searchString"></span></p>
+		</div>
+		
+
+		
+			
+				<div class="c-conduct2 customScroll homeScroll divSearchContainer ">
+					
+					<div class="listContainer">
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1554"><input type="checkbox"
+									id="checkboxId1554" class="checkBoxCondition "
+									name="308" value="1554"
+									style="width: 15px; height: 15px"
+									 />
+									English <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1555"><input type="checkbox"
+									id="checkboxId1555" class="checkBoxCondition "
+									name="308" value="1555"
+									style="width: 15px; height: 15px"
+									 />
+									Mathematics <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1556"><input type="checkbox"
+									id="checkboxId1556" class="checkBoxCondition "
+									name="308" value="1556"
+									style="width: 15px; height: 15px"
+									 />
+									Science <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1557"><input type="checkbox"
+									id="checkboxId1557" class="checkBoxCondition "
+									name="308" value="1557"
+									style="width: 15px; height: 15px"
+									 />
+									Social Science <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1558"><input type="checkbox"
+									id="checkboxId1558" class="checkBoxCondition "
+									name="308" value="1558"
+									style="width: 15px; height: 15px"
+									 />
+									EVS <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1559"><input type="checkbox"
+									id="checkboxId1559" class="checkBoxCondition "
+									name="308" value="1559"
+									style="width: 15px; height: 15px"
+									 />
+									Hindi  <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1560"><input type="checkbox"
+									id="checkboxId1560" class="checkBoxCondition "
+									name="308" value="1560"
+									style="width: 15px; height: 15px"
+									 />
+									Sanskrit <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1561"><input type="checkbox"
+									id="checkboxId1561" class="checkBoxCondition "
+									name="308" value="1561"
+									style="width: 15px; height: 15px"
+									 />
+									French <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1562"><input type="checkbox"
+									id="checkboxId1562" class="checkBoxCondition "
+									name="308" value="1562"
+									style="width: 15px; height: 15px"
+									 />
+									Telugu <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1563"><input type="checkbox"
+									id="checkboxId1563" class="checkBoxCondition "
+									name="308" value="1563"
+									style="width: 15px; height: 15px"
+									 />
+									Tamil <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1564"><input type="checkbox"
+									id="checkboxId1564" class="checkBoxCondition "
+									name="308" value="1564"
+									style="width: 15px; height: 15px"
+									 />
+									Kannada <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1565"><input type="checkbox"
+									id="checkboxId1565" class="checkBoxCondition "
+									name="308" value="1565"
+									style="width: 15px; height: 15px"
+									 />
+									Malayalam <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1566"><input type="checkbox"
+									id="checkboxId1566" class="checkBoxCondition "
+									name="308" value="1566"
+									style="width: 15px; height: 15px"
+									 />
+									Gujarati <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1567"><input type="checkbox"
+									id="checkboxId1567" class="checkBoxCondition "
+									name="308" value="1567"
+									style="width: 15px; height: 15px"
+									 />
+									Oriya <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1568"><input type="checkbox"
+									id="checkboxId1568" class="checkBoxCondition "
+									name="308" value="1568"
+									style="width: 15px; height: 15px"
+									 />
+									Punjabi <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1570"><input type="checkbox"
+									id="checkboxId1570" class="checkBoxCondition "
+									name="308" value="1570"
+									style="width: 15px; height: 15px"
+									 />
+									Urdu <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId4474"><input type="checkbox"
+									id="checkboxId4474" class="checkBoxCondition "
+									name="308" value="4474"
+									style="width: 15px; height: 15px"
+									 />
+									Marathi <span></span> </label>
+							</div>
+						
+					</div>
+					
+					<div class="clear"></div>
+				</div>
+			
+		
+	</div>
+	<div class="clear"></div> 
+	
+		<input type="button" data-role="none"
+		class="slideSubmit primaryButton" value="Next" disabled="disabled" />
+	
+</div>
+
+
+			<!-- if regular class and institute location selectd then we are hard coding how far you want to travel question -->
+			
+			
+		
+				 
+			
+				
+
+<div class="slides   " id="attr-18284" name="attr-18284" style="display:none;width:483px;">
+	<input type="hidden" name="slides-attrInternalValue"
+		id="slides-attrInternalValue" value="Class IX-X ICSE Tuition" />
+	
+	<div class="container ">
+		
+		
+		
+			
+			
+				<input type="hidden" class="lv-184"
+					value="attr-18284">
+			
+		
+		
+		<div class="headline">
+			
+				Which of the following ICSE subjects do you require tuition for?
+			
+		</div>
+		
+
+		<!-- Search field code added for searching the list in checkbox or radio button which has list greater than or equal to 8 -->
+		
+		<div class="attributeSearchContainer">
+		<div class="pos-rel">
+		<input type="text" class="search" placeholder="Search..."/>
+		<span class="clearSearch">x</span>
+		</div>
+		<p class="noSearchResults">No options found matching <span class="searchString"></span></p>
+		</div>
+		
+
+		
+			
+				<div class="c-conduct2 customScroll homeScroll divSearchContainer ">
+					
+					<div class="listContainer">
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1523"><input type="checkbox"
+									id="checkboxId1523" class="checkBoxCondition "
+									name="306" value="1523"
+									style="width: 15px; height: 15px"
+									 />
+									English <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1524"><input type="checkbox"
+									id="checkboxId1524" class="checkBoxCondition "
+									name="306" value="1524"
+									style="width: 15px; height: 15px"
+									 />
+									English Literature <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1525"><input type="checkbox"
+									id="checkboxId1525" class="checkBoxCondition "
+									name="306" value="1525"
+									style="width: 15px; height: 15px"
+									 />
+									Mathematics <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1526"><input type="checkbox"
+									id="checkboxId1526" class="checkBoxCondition "
+									name="306" value="1526"
+									style="width: 15px; height: 15px"
+									 />
+									Physics <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1527"><input type="checkbox"
+									id="checkboxId1527" class="checkBoxCondition "
+									name="306" value="1527"
+									style="width: 15px; height: 15px"
+									 />
+									Chemistry <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1528"><input type="checkbox"
+									id="checkboxId1528" class="checkBoxCondition "
+									name="306" value="1528"
+									style="width: 15px; height: 15px"
+									 />
+									Biology <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1529"><input type="checkbox"
+									id="checkboxId1529" class="checkBoxCondition "
+									name="306" value="1529"
+									style="width: 15px; height: 15px"
+									 />
+									Hindi <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1530"><input type="checkbox"
+									id="checkboxId1530" class="checkBoxCondition "
+									name="306" value="1530"
+									style="width: 15px; height: 15px"
+									 />
+									History and Civics <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1531"><input type="checkbox"
+									id="checkboxId1531" class="checkBoxCondition "
+									name="306" value="1531"
+									style="width: 15px; height: 15px"
+									 />
+									EVS <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1532"><input type="checkbox"
+									id="checkboxId1532" class="checkBoxCondition "
+									name="306" value="1532"
+									style="width: 15px; height: 15px"
+									 />
+									Geography <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1534"><input type="checkbox"
+									id="checkboxId1534" class="checkBoxCondition "
+									name="306" value="1534"
+									style="width: 15px; height: 15px"
+									 />
+									Computer Application <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1535"><input type="checkbox"
+									id="checkboxId1535" class="checkBoxCondition "
+									name="306" value="1535"
+									style="width: 15px; height: 15px"
+									 />
+									Economic Application <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1538"><input type="checkbox"
+									id="checkboxId1538" class="checkBoxCondition "
+									name="306" value="1538"
+									style="width: 15px; height: 15px"
+									 />
+									Physical Education <span></span> </label>
+							</div>
+						
+					</div>
+					
+					<div class="clear"></div>
+				</div>
+			
+		
+	</div>
+	<div class="clear"></div> 
+	
+		<input type="button" data-role="none"
+		class="slideSubmit primaryButton" value="Next" disabled="disabled" />
+	
+</div>
+
+
+			<!-- if regular class and institute location selectd then we are hard coding how far you want to travel question -->
+			
+			
+		
+				 
+			
+				
+
+<div class="slides   " id="attr-18288" name="attr-18288" style="display:none;width:483px;">
+	<input type="hidden" name="slides-attrInternalValue"
+		id="slides-attrInternalValue" value="Class IX-X IGCSE Tuition" />
+	
+	<div class="container ">
+		
+		
+		
+			
+			
+				<input type="hidden" class="lv-1255"
+					value="attr-18288">
+			
+		
+		
+		<div class="headline">
+			
+				Which of the following IGCSE subjects do you require tuition for?
+			
+		</div>
+		
+
+		<!-- Search field code added for searching the list in checkbox or radio button which has list greater than or equal to 8 -->
+		
+		<div class="attributeSearchContainer">
+		<div class="pos-rel">
+		<input type="text" class="search" placeholder="Search..."/>
+		<span class="clearSearch">x</span>
+		</div>
+		<p class="noSearchResults">No options found matching <span class="searchString"></span></p>
+		</div>
+		
+
+		
+			
+				<div class="c-conduct2 customScroll homeScroll divSearchContainer ">
+					
+					<div class="listContainer">
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1539"><input type="checkbox"
+									id="checkboxId1539" class="checkBoxCondition "
+									name="307" value="1539"
+									style="width: 15px; height: 15px"
+									 />
+									English <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1540"><input type="checkbox"
+									id="checkboxId1540" class="checkBoxCondition "
+									name="307" value="1540"
+									style="width: 15px; height: 15px"
+									 />
+									English Literature <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1541"><input type="checkbox"
+									id="checkboxId1541" class="checkBoxCondition "
+									name="307" value="1541"
+									style="width: 15px; height: 15px"
+									 />
+									Hindi <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1542"><input type="checkbox"
+									id="checkboxId1542" class="checkBoxCondition "
+									name="307" value="1542"
+									style="width: 15px; height: 15px"
+									 />
+									Mathematics <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1543"><input type="checkbox"
+									id="checkboxId1543" class="checkBoxCondition "
+									name="307" value="1543"
+									style="width: 15px; height: 15px"
+									 />
+									Physics <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1544"><input type="checkbox"
+									id="checkboxId1544" class="checkBoxCondition "
+									name="307" value="1544"
+									style="width: 15px; height: 15px"
+									 />
+									Chemistry <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1545"><input type="checkbox"
+									id="checkboxId1545" class="checkBoxCondition "
+									name="307" value="1545"
+									style="width: 15px; height: 15px"
+									 />
+									Biology <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1546"><input type="checkbox"
+									id="checkboxId1546" class="checkBoxCondition "
+									name="307" value="1546"
+									style="width: 15px; height: 15px"
+									 />
+									French <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1547"><input type="checkbox"
+									id="checkboxId1547" class="checkBoxCondition "
+									name="307" value="1547"
+									style="width: 15px; height: 15px"
+									 />
+									German <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1548"><input type="checkbox"
+									id="checkboxId1548" class="checkBoxCondition "
+									name="307" value="1548"
+									style="width: 15px; height: 15px"
+									 />
+									Economics <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1549"><input type="checkbox"
+									id="checkboxId1549" class="checkBoxCondition "
+									name="307" value="1549"
+									style="width: 15px; height: 15px"
+									 />
+									Geography <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1550"><input type="checkbox"
+									id="checkboxId1550" class="checkBoxCondition "
+									name="307" value="1550"
+									style="width: 15px; height: 15px"
+									 />
+									History <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1551"><input type="checkbox"
+									id="checkboxId1551" class="checkBoxCondition "
+									name="307" value="1551"
+									style="width: 15px; height: 15px"
+									 />
+									Physical Education <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1552"><input type="checkbox"
+									id="checkboxId1552" class="checkBoxCondition "
+									name="307" value="1552"
+									style="width: 15px; height: 15px"
+									 />
+									Business Studies <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1553"><input type="checkbox"
+									id="checkboxId1553" class="checkBoxCondition "
+									name="307" value="1553"
+									style="width: 15px; height: 15px"
+									 />
+									Information Technology <span></span> </label>
+							</div>
+						
+					</div>
+					
+					<div class="clear"></div>
+				</div>
+			
+		
+	</div>
+	<div class="clear"></div> 
+	
+		<input type="button" data-role="none"
+		class="slideSubmit primaryButton" value="Next" disabled="disabled" />
+	
+</div>
+
+
+			<!-- if regular class and institute location selectd then we are hard coding how far you want to travel question -->
+			
+			
+		
+				 
+			
+				
+
+<div class="slides    lastQuestion" id="attr-18292" name="attr-18292" style="display:none;width:483px;">
+	<input type="hidden" name="slides-attrInternalValue"
+		id="slides-attrInternalValue" value="Class IX-X International Baccalaureate Tuition" />
+	
+	<div class="container ">
+		
+		
+		
+			
+			
+				<input type="hidden" class="lv-190"
+					value="attr-18292">
+			
+		
+		
+		<div class="headline">
+			
+				Which of the following International Baccalaureate subjects do you require tuition for?
+			
+		</div>
+		
+
+		<!-- Search field code added for searching the list in checkbox or radio button which has list greater than or equal to 8 -->
+		
+		<div class="attributeSearchContainer">
+		<div class="pos-rel">
+		<input type="text" class="search" placeholder="Search..."/>
+		<span class="clearSearch">x</span>
+		</div>
+		<p class="noSearchResults">No options found matching <span class="searchString"></span></p>
+		</div>
+		
+
+		
+			
+				<div class="c-conduct2 customScroll homeScroll divSearchContainer ">
+					
+					<div class="listContainer">
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1451"><input type="checkbox"
+									id="checkboxId1451" class="checkBoxCondition "
+									name="304" value="1451"
+									style="width: 15px; height: 15px"
+									 />
+									English <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1452"><input type="checkbox"
+									id="checkboxId1452" class="checkBoxCondition "
+									name="304" value="1452"
+									style="width: 15px; height: 15px"
+									 />
+									Mathematics <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1453"><input type="checkbox"
+									id="checkboxId1453" class="checkBoxCondition "
+									name="304" value="1453"
+									style="width: 15px; height: 15px"
+									 />
+									Physics <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1454"><input type="checkbox"
+									id="checkboxId1454" class="checkBoxCondition "
+									name="304" value="1454"
+									style="width: 15px; height: 15px"
+									 />
+									Chemistry <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1455"><input type="checkbox"
+									id="checkboxId1455" class="checkBoxCondition "
+									name="304" value="1455"
+									style="width: 15px; height: 15px"
+									 />
+									Biology <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1456"><input type="checkbox"
+									id="checkboxId1456" class="checkBoxCondition "
+									name="304" value="1456"
+									style="width: 15px; height: 15px"
+									 />
+									Social Science <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1457"><input type="checkbox"
+									id="checkboxId1457" class="checkBoxCondition "
+									name="304" value="1457"
+									style="width: 15px; height: 15px"
+									 />
+									Hindi <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1458"><input type="checkbox"
+									id="checkboxId1458" class="checkBoxCondition "
+									name="304" value="1458"
+									style="width: 15px; height: 15px"
+									 />
+									French <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1459"><input type="checkbox"
+									id="checkboxId1459" class="checkBoxCondition "
+									name="304" value="1459"
+									style="width: 15px; height: 15px"
+									 />
+									German <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1460"><input type="checkbox"
+									id="checkboxId1460" class="checkBoxCondition "
+									name="304" value="1460"
+									style="width: 15px; height: 15px"
+									 />
+									Spanish <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1461"><input type="checkbox"
+									id="checkboxId1461" class="checkBoxCondition "
+									name="304" value="1461"
+									style="width: 15px; height: 15px"
+									 />
+									Chinese <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1462"><input type="checkbox"
+									id="checkboxId1462" class="checkBoxCondition "
+									name="304" value="1462"
+									style="width: 15px; height: 15px"
+									 />
+									Japanese <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1647"><input type="checkbox"
+									id="checkboxId1647" class="checkBoxCondition "
+									name="304" value="1647"
+									style="width: 15px; height: 15px"
+									 />
+									Computers <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1648"><input type="checkbox"
+									id="checkboxId1648" class="checkBoxCondition "
+									name="304" value="1648"
+									style="width: 15px; height: 15px"
+									 />
+									History <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1649"><input type="checkbox"
+									id="checkboxId1649" class="checkBoxCondition "
+									name="304" value="1649"
+									style="width: 15px; height: 15px"
+									 />
+									Geography <span></span> </label>
+							</div>
+						
+							<div class="condiCheckBox refineFeild checkFeild divSearchElement">
+								
+								<label for="checkboxId1651"><input type="checkbox"
+									id="checkboxId1651" class="checkBoxCondition "
+									name="304" value="1651"
+									style="width: 15px; height: 15px"
+									 />
+									Physical Education <span></span> </label>
+							</div>
+						
+					</div>
+					
+					<div class="clear"></div>
+				</div>
+			
+		
+	</div>
+	<div class="clear"></div> 
+	
+		<input type="button" data-role="none"
+		class="slideSubmit primaryButton" value="Next" disabled="disabled" />
+	
+</div>
+
+
+			<!-- if regular class and institute location selectd then we are hard coding how far you want to travel question -->
+			
+			
+		
+	
+<!-- End of Need topic attribute Block -->
+
+ 
+	<div class="slides" id="emailSlide">
+		<div class="c-conduct2 homeSlideScroll">
+			<input type="hidden" name="slides-attrInternalValue"
+				id="slides-attrInternalValue" value="Signup/login" />
+				<input type="hidden" id="isAlreadyExistMember" value="">
+			<div class="emailVerification extraSlides newSignUpBlock">
+				<p class="slideHeading" style="margin-top:10px;margin-bottom:0px">You are almost done</p>
+				<p class="slideSubHeading" style="margin-top:5px">To submit your requirement, please <span class="loginFormTxt" style="display:none">login with your Email id & Password</span><span class="signUpFormTxt"> provide your Name & Phone number</span>				
+				</p>
+
+				<!-- <div class="provEdtFeild">
+					<div class="inputGroup">
+					<input id="email" type="text" class="width100p" value=""
+						name="username" placeholder=" " required />
+					<label>Email</label>
+					</div>
+					<p class="homeErr emptyErr">Please enter your email address.</p>
+					<p class="homeErr validateErr">Please enter valid email address.</p>
+				</div> -->
+
+				<div class="passwrdBlock"></div>
+
+				<div class="signup pos-rel" style="top:10px;">
+
+					<div class="provEdtFeild fullNameBlock">
+						<div class="inputGroup" style="margin-top:20px">
+						<input id="name" type="text" class="width100p halfColrd nameField fullName" value=""
+							name="fullName" placeholder=" " required/>
+						<label>Full Name</label>
+						</div>
+						<p class="homeErr emptyErr" style="z-index:1;">Please enter your name.</p>
+						<p class="homeErr validateErr">Please enter only Characters as
+							Name.</p>
+					</div>
+
+					<div class="provEdtFeild countryCode mb-13" >
+						<div class="selectGroup">
+
+						
+							
+						
+						<select name="countryId" class="mb-0 countryId countryIdChnge" id="countryId">
+
+						</select>
+					</div>
+						<p class="homeErr emptyErr" style="clear:both;">Please select Country.</p>
+					</div>
+
+					<div class="provEdtFeild mobileNumber mb-18 ">
+						<div class="inputGroup">
+						<input type="number" class="width100p halfColrd phoneNumberValue makeEdit" value=""
+							name="phoneNumber" data-maxlength="10" required="" placeholder=" " id="newPhoneNumber"/>
+						<label class="mobNumber">Enter your Mobile number</label>
+						<input type="hidden" id="contactId" value=""> 
+						<input type="hidden" id="memberId" value="">
+						<img src="https://c.urbanpro.com/assets/mobile/edit_detail-302859773611525ebe13fdba5af9039d.png" class="editNumber" />
+						<span class="updateNumber mobUpdate ">Update</span>						
+						<span class="updateNumber updateSpinner"><img src="https://c.urbanpro.com/assets/new-ui/spinner-a51c5608d01acf32df728f299767f82b.gif" width="16" height="16" /></span>
+						<span class="updateNumber numUpdated"><img src="https://c.urbanpro.com/assets/mobile/tick-1c742ea970396e7cfa7fb60b13a9cf58.png" width="16" height="16" /></span>
+						</div>
+						
+						<p class="homeErr validateErr ml-12">Please enter 10 digit phone number.</p>
+						<p class="homeErr emptyErr ml-12">Please enter your phone number.</p>
+						<p class="homeErr phoneNotValidErr ml-12">Please Enter a valid Mobile Number</p>
+						<p class="homeErr phoneDuplicateErrNew ml-12" style="margin-bottom:10px;display:none;" >This number is already in use.</p>
+						<p class="homeErr phoneDuplicateErr ml-12" style="margin-bottom:10px;" >This number is already in use. Please <a href="#" class="no-href-line clickedLoginViaPhone ml-12" style="cursor: pointer;">Click here to Login</a> to the account associated with this phone number.</p>
+						<p class="homeErr phoneUpdateDuplicateErr mt-10" style="display:none;">This number is already in use. Please enter any other phone number.</p>
+					</div>
+
+					<!-- for new user otp field -->
+					<div class="provEdtFeild newUserOtpFeild userOptSlide" style="display:none;clear:left">
+						<div class="otpBlock">
+							<div class="inputGroup mb-10">
+								<input type="number" class="otp width100p" id="otp" value=""
+								name="otp" placeholder="Enter OTP sent to above number" required />
+								<a class="resendOtpNew resendLink">RESEND</a>
+								<p class="otpSent mt-10 loud" style="display:none;">OTP has been sent.</p>
+								<p class="homeErr emptyErr">Please enter OTP.</p>
+							</div>						
+							<input type="submit" value="SUBMIT" class="primaryButton recaptchSubmit" id="submitOtpNewUser" />
+						</div>
+						<div id="recaptcha" class="clear-fix mt-10"></div>
+						<div id="showTimerBlockNewUser" class="mt-30" style="clear:left;">
+							<p class="slideSubHeading">
+								Or, Give a missed call to verify your Phone:<br/> <span
+									id="myStopwatchNewUser" style="display: none !important;"
+									class="f-14 countDown stopwatch theme marginTop10"> <span
+									class="the-time"
+									style="width: auto !important; float: none !important; background-color: #fff;">
+										<span class="min">00</span> <span>:</span> <span class="sec">00</span>
+								</span> <span style="display: inline-block;">mins</span>
+								</span>
+							</p>						
+							<p class="callToNumber">
+								<span class="icon-ic-phone-call-ringing"></span>+91-80-46-6148-25
+							</p>
+						</div>
+						<div class="verifiedPart mt-30" style="display:none;">
+							<img style="" height="50" width="50" src="https://c.urbanpro.com/assets/new-ui/rsz_tick1-8cf53e4899008d8cf175eff0052f6878.png" />
+							<p class="ftsize_14c mt-10 mb-20">Your phone number has been verified.</p>
+							<input type="button" class="continueToOptional primaryButton" value="Continue" />
+						</div>
+					</div>
+						
+
+					<!-- for old user otp field -->
+					<div class="provEdtFeild otpField userOptSlide" style="display:none;">
+						<div class="inputGroup">
+						<input type="number" class="otp width100p" id="otp" value=""
+							name="otp" placeholder="Enter OTP sent to above number" required />
+						</div>						
+						<a class="resendOtpNew resendLink">RESEND</a>
+						<input type="hidden" id="doAutoLogin" value="">
+						<p class="otpSent mt-10 loud" style="display:none;">OTP has been sent.</p>
+						<p class="homeErr emptyErr">Please enter OTP.</p>
+						
+					</div>
+
+				</div>
+
+				<div class="clearfix"></div>
+				
+				<div class="textAlignCen newOtpBlock" style="float:left;width:100%;margin-top:20px;">
+					<div id="recaptcha" class="clear-fix"></div>
+					<input type="submit" value="CONTINUE" class="primaryButton emailValidation recaptchSubmit" style="margin-top:24px;" id="finalSubmit" />
+
+					<input type="button" style="display:none"
+			           class="takeToPhoneSlide primaryButton" onclick="loginByUserNameAndPassword();" value="Login" />	
+			        
+
+					<p class="trmsLink">
+						By Signing up, you agree to our
+						<a href="/terms-of-use" target="_blank">Terms of Use</a>
+						and
+						<a href="/privacy-policy" target="_blank">Privacy Policy</a>
+					</p>
+
+				</div>
+			</div>
+			
+
+			<div class="newTimerBlock internationalCallBlock" style="display:none;">
+				<p class="slideHeading mt-20 bold mb-5">Give a Missed call</p>
+
+				<div id="showTimerBlock">
+					<p class="slideSubHeading">
+						Verify your number by giving a missed call <br/>within <span
+							id="myStopwatch" style="display: inline !important;"
+							class="f-14 countDown stopwatch theme marginTop10"> <span
+							class="the-time"
+							style="width: auto !important; float: none !important; background-color: #fff;">
+								<span class="min">00</span> <span>:</span> <span class="sec">00</span>
+						</span> <span style="display: inline-block;">mins</span>
+						</span>
+					</p>						
+						<p class="callToNumber" style="display:none" id="missCallInternational">
+							<span class="icon-ic-phone-call-ringing"></span>+91-80-46-6148-25
+						</p>
+				</div>
+
+				<div class="mt-15 floatLeft width100p"
+				style="font-weight: normal; display: none;" id="failToVerifyBlockInternational">
+					<p style="margin-bottom: 3px; font-size: 14px;">
+						<span style="color: rgb(244, 88, 88);">Sorry!</span> We could not
+						verify your Phone Number.
+					</p>
+					<a class="tryagainLink orangeLink">Please Try again
+						&raquo;</a>
+				</div>
+
+				<div class="verifiedPart mt-40" style="display:none;">
+					<img style="" height="100" width="100" src="https://c.urbanpro.com/assets/new-ui/rsz_tick1-8cf53e4899008d8cf175eff0052f6878.png" />
+					<p class="ftsize_14c mt-10 mb-30">Your phone number has been verified.</p>
+					<input type="button" class="continueToOptional primaryButton" value="Continue" />
+				</div>
+			</div>
+
+
+			
+			</div>
+		</div>
+
+	
+
+
+<!-- Show Phone Number Block if phoneNo is not there in member level -->
+	
+	<div class="slides phoneNumberSlide  none" id="phoneNumberSlide">
+			
+		<div class="phoneNumberSlideContainer">
+		<div class="headline marginTop10 textAlignCen loud" tabindex="-1">
+			Please provide your Mobile Number		
+		</div>
+		<p class="slideSubHeading">We need your phone number to accept your requirement</p>
+		<div class="provEdtFeild countryCode">
+			
+				
+			
+			<select name="countryId1" class="mb-0 countryId" id="countryId">
+			</select>
+			<p class="homeErr"></p>
+		</div>
+
+		<div class="provEdtFeild mobileNumber">
+			<input type="number" class="halfColrd phoneNumberFinal phoneNumberValue" value="" name="phoneNumber1" data-maxlength="10" placeholder="Enter your Mobile number" />
+			<p class="homeErr phoneErr">Please enter 10 digit phone number.</p>
+			<p class="homeErr emptyErr">Please enter your phone number.</p>
+			<p class="homeErr phoneNotValidErr">Please Enter a valid Mobile Number</p>
+			
+		</div>
+		<p class="homeErr phoneDuplicateErr" style="margin-bottom: 10px;">This number is already in use. Please <a href="#" class="no-href-line clickedLoginViaPhone" style="cursor: pointer;">Click here to Login</a> to the account associated with this phone number.</p>
+		</div>
+		<input type="button" data-role="none" class="phoneSubmit primaryButton"
+			value="Submit" />	
+
+
+	</div>
+	<!-- PhoneNumber block end -->	
+
+	
+</form>
+
+
+
+
+<div class="dummyPwdBlock none">
+	<div class="provEdtFeild">
+		<div class="inputGroup">
+		<input type="password" class="width100p halfColrd" id="password"
+			value="" name="password" required placeholder=" " />
+		<label>Password</label>
+		</div>
+		<p class="homeErr pwdErr" style="font-size: 12px;position: static;float: left;width: 100%;">Sorry, we were not able to find a user with that username and password.</p>
+		<p class="homeErr validateErr emptyErr">Please enter your password.</p>
+	</div>
+	<a href="/register/forgotPassword" target="_blank" class="forGot">Forgot
+		password</a>
+</div>
+
+
+<div class="dummySignupBlock none">
+	<div class="provEdtFeild fullNameBlock">
+		<div class="inputGroup">
+		<input id="name" type="text" class="width100p halfColrd" value=""
+			name="fullName" placeholder=" " required/>
+		<label>Full Name</label>
+		</div>
+		<p class="homeErr emptyErr" style="z-index:1;">Please enter your name.</p>
+		<p class="homeErr validateErr">Please enter only Characters as
+			first name.</p>
+	</div>
+
+	<div class="provEdtFeild countryCode mb-13">
+		<div class="selectGroup">
+
+		
+			
+		
+		<select name="countryId" class="mb-0 countryId" id="countryId">
+
+		</select>
+		</div>
+		<p class="homeErr emptyErr" style="clear:both;">Please select Country.</p>
+	</div>
+
+	<div class="provEdtFeild mobileNumber mb-18 ">
+		<div class="inputGroup">
+		<input type="number" class="width100p halfColrd phoneNumberValue" value=""
+			name="phoneNumber" data-maxlength="10" required="" placeholder=" " />
+		<label>Enter your Mobile number</label>
+		</div>
+		<p class="homeErr validateErr ml-12">Please enter 10 digit phone number.</p>
+		<p class="homeErr emptyErr ml-12">Please enter your phone number.</p>
+		<p class="homeErr phoneNotValidErr ml-12">Please Enter a valid Mobile Number</p>
+		<p class="homeErr phoneDuplicateErr ml-12" style="margin-bottom:10px;" >This number is already in use. Please <a href="#" class="no-href-line clickedLoginViaPhone" style="cursor: pointer;">Click here to Login</a> to the account associated with this phone number.</p>
+	</div>
+	
+	<div class="emailRealValidation"></div>
+</div>
+
+<!-- Need Attribute After Post Block -->
+<div class="slides afterPostSlide afterNeedPostSlide" id="afterPostSlide">
+	<form action="/need/savePostNeedTopicAttribute" id="postNeedForm">
+		<div class="c-conduct2 homeSlideScroll">
+			<div class="headline textAlignCen small-headline">Please answer the following questions to help us get you accurate quotes</div>
+			<div class="afterPostQuestionsContainer">
+				<input type="hidden" id="needId" name="needId" value="" />
+				
+					
+						
+
+<div class="afterSlide  optionalSlides " id="attr-6699" name="attr-6699" style="width:483px;">
+	<input type="hidden" name="slides-attrInternalValue"
+		id="slides-attrInternalValue" value="Looking To Hire" />
+	
+	<div class="container pd0-20">
+		
+		
+		
+		
+			<div class="pos-rel mb-8">
+			
+			<input type="text" class="width100p halfColrd slideQuestion" placeholder="When are you looking to hire?" readonly="" />
+			
+			<p class="homeErr"></p>
+			</div> 
+		
+
+		<!-- Search field code added for searching the list in checkbox or radio button which has list greater than or equal to 8 -->
+		
+
+		
+			
+				<div class="c-conduct2 radioCustomScroll customScroll homeScroll divSearchContainer optionList">
+					
+					<div class="listContainer">
+						
+							<div class="condiRadio refineFeild radioFeild divSearchElement">
+								<label for="cond-577"><input
+									id="cond-577" type="radio" class="conditionRadio" name="113"
+									
+									value="577"> Immediately <span></span>
+								</label>
+							</div>
+						
+							<div class="condiRadio refineFeild radioFeild divSearchElement">
+								<label for="cond-579"><input
+									id="cond-579" type="radio" class="conditionRadio" name="113"
+									
+									value="579"> In few weeks <span></span>
+								</label>
+							</div>
+						
+							<div class="condiRadio refineFeild radioFeild divSearchElement">
+								<label for="cond-581"><input
+									id="cond-581" type="radio" class="conditionRadio" name="113"
+									
+									value="581"> Just Exploring <span></span>
+								</label>
+							</div>
+						
+					</div>
+					
+				</div>
+
+			
+		
+	</div>
+	<div class="clear"></div> 
+	
+</div>
+
+					
+						
+
+<div class="afterSlide  optionalSlides " id="attr-10919" name="attr-10919" style="width:483px;">
+	<input type="hidden" name="slides-attrInternalValue"
+		id="slides-attrInternalValue" value="Availability" />
+	
+	<div class="container pd0-20">
+		
+		
+		
+		
+			<div class="pos-rel mb-8">
+			
+			<input type="text" class="width100p halfColrd slideQuestion" placeholder="What days are you generally available to take classes?" readonly="" />
+			
+			<p class="homeErr"></p>
+			</div> 
+		
+
+		<!-- Search field code added for searching the list in checkbox or radio button which has list greater than or equal to 8 -->
+		
+
+		
+			<div class="c-conduct2 radioCustomScroll homeScroll optionList">
+				
+				<div class="condiRadio refineFeild radioFeild">
+					<label for="anyday"> <input type="radio" name="availabilityDay"
+						id="anyday" class="classLocation" value="ANYDAY" /> Any day <span></span>
+					</label>
+				</div>
+				<div class="condiRadio refineFeild radioFeild">
+					<label for="weekday"> <input type="radio" name="availabilityDay"
+						id="weekday" class="classLocation" value="WEEKDAY" /> Weekday <span></span>
+					</label>
+				</div>
+				<div class="condiRadio refineFeild radioFeild">
+					<label for="weekend"> <input type="radio" name="availabilityDay"
+						id="weekend" class="classLocation" value="WEEKEND" />Weekend <span></span>
+					</label>
+				</div>
+			</div>
+		
+	</div>
+	<div class="clear"></div> 
+	
+</div>
+
+					
+				
+				<input type="hidden" name="slides-attrInternalValue"
+					id="slides-attrInternalValue" value="Description" />
+				<div class="description-text mb-10">
+					<textarea style="height:100px;" class="optionalTextarea slideQuestion" name="description" placeholder="Anything else you want us to know about this requirement" id="description" ></textarea>
+				</div>
+			</div>
+			<div class="afterPostQuestionsContainer">
+				<span class="buttonWrapper inline-block">
+					<input type="button" class="afterSubmit primaryButton" value="Submit" />
+				</span>
+				<input type="hidden" id="nextUrl" name="nextUrl" value="" />
+				<input type="button" class="afterSkip tertiaryButton" value="Skip" />
+			</div>
+		</div>
+		
+	</form>
+	
+
+</div>
+<!-- End of Need Attribute After Post Block -->
+
+			
+		</div>
+		</div>
+		</div>
+		<div class="controlNext" style="display:none">Next</div>
+		<div class="controlPrev" style="display:none;"></div>
+		
+	</div>
+
+
+
+</div>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC89_v8zGUFowZLam_VPN1dRA9dOu9Bjrc&libraries=places"></script>
+<script type="text/javascript">
+urbanproWidgetParams = {};
+</script>
+<script type="text/javascript" src="https://c.urbanpro.com/assets/modules/needPost_module-d1f48e8c97f2f88781289545c7bd2402.js" ></script> 
+
+			
+		</div>
+		<!-- body: END -->
+	
+	
+						
+        	</div>
+
+	
+    	
+	    
+		<div class="footernew" >
+	     <div class="d-cont-foot">
+
+			<ul class="footerSocial marginTop15">
+	        	<li class="no-border social-icons"><a href="https://plus.google.com/106623858034747379106/posts" target="_blank"><img src="https://c.urbanpro.com/assets/new-ui/gPlus-5f802ae9a79a61c7baf724c005934980.png" height="22" width="32" alt="Google plus" /></a></li>
+	        	<li class="no-border social-icons"><a href="http://twitter.com/urbanproapp" target="_blank"><img class="mt-2" src="https://c.urbanpro.com/assets/new-ui/twitFooter-cca354979ea45848c0d6ec10aa02a3c8.png" height="21" width="24" alt="Twitter" /></a></li>
+
+				<li class="no-border social-icons"><a href="http://www.facebook.com/UrbanProApp" target="_blank"><img src="https://c.urbanpro.com/assets/new-ui/fbFooter-55b34fd3ab472a756d29879e3b751253.png" height="25" width="25" alt="Facebook" /></a></li>
+			</span>
+
+
+			</ul>	
+
+	     
+		
+			<ul class="footermenu">
+	        	<li class="hide-for-small-only">
+	        		
+	        			<a href="/about-us/8085" target="_blank">About UrbanPro.com</a>
+	        		
+	        	</li>       	
+
+				<li class="show-for-small-only"><a href="/about-us/8085" target="_blank">Desktop Site</a></li>
+				<li class="show-for-small-only"><a href="/about-us/8085" target="_blank">About Us</a></li>
+
+	        	<li class="terms-no-border">
+	        		
+	        			<a href="/terms-of-use" target="_blank">Terms of Use</a>
+	        		
+	        	</li>
+	        	<li class="hide-for-small-only">
+	        		
+	        			<a href="/privacy-policy" target="_blank">Privacy Policy</a>
+	        		
+	        	</li>
+	        	<li class="onlybig">
+	        		
+	        			<a href="/articles" target="_blank" class="hide-for-small-only">Articles</a>
+	        		
+	        	</li>
+	        	<li class="onlybig successStoryFooterLink">
+	        		
+	        			<a href="/success-stories" target="_blank">Success Stories</a>
+	        		
+	        	</li>
+	        	<li class="hide-for-small-only customerServiceFooterLink"><a href="http://support.urbanpro.com/" target="_blank">Customer Service</a></li>
+	        	<li class="no-border onlybig AllCatFooterLink">
+	        		
+	        			<a href="/all-categories">All Categories</a>
+	        		
+	        	</li>
+	        </ul>
+	        <div class="copyright hide-for-small-only">ThinkVidya Learning Pvt Ltd &copy; 2010-2017 All Rights Reserved</div>
+	        <p class="copyright-mob show-for-small-only">&copy; 2010-2017 All Rights Reserved</p>
+		</div>
+		</div>
+	
+		
+	
+	
+
+
+		
+		
+			
+ <div class="d-cont-foot" style="text-decoration:none !important;" >
+ 
+    
+    
+    
+    
+    
+	
+	
+	
+    
+	 
+	</div>
+	</div>
+	
+		
+			
+
+
+<div id="googleTrackingPixelTemplate">
+		
+
+    
+    
+    
+    
+    
+    
+    
+   
+    
+    
+      
+    
+
+			
+    
+    
+    
+      
+        
+       
+      
+      
+       
+     
+    
+        
+    
+  
+
+	
+	
+
+	
+	
+	
+
+
+  
+
+
+ 
+
+     
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+
+    
+     
+	  
+	   
+	  
+	 	 _gaq.push(['_setAccount', 'UA-23360071-1']);
+	 
+
+	  function gaCustomTrack(isProvider,type,categoryName){
+		  	
+		  	 if(isProvider==true){
+		  		 gaProviderTracking();
+		  	 }else{
+		  		 gaSeekerTracking();
+		  	 }
+		  	 
+		  	_gaq.push(['_trackEvent','Click',"'"+type+"''" ,"'"+categoryName+"'", 1, true]);
+		  	
+		  }
+
+		  function gaProviderTracking(){
+		  	 _gaq.push(['_setCustomVar',
+		                  3,                   // This custom var is set to slot #3.  Required parameter.
+		                  'UserType',     // The name acts as a kind of category for the user activity.  Required parameter.
+		                  'Provider_Visitor_Basic',               // This value of the custom variable.  Required parameter.
+		                  2                    // Sets the scope to session-level.  Optional parameter.
+		               ]);
+		  }
+		  function gaSeekerTracking(){
+		  	 _gaq.push(['_setCustomVar',
+		                  3,                   // This custom var is set to slot #3.  Required parameter.
+		                  'UserType',     // The name acts as a kind of category for the user activity.  Required parameter.
+		                  'Seeker_Visitor_Basic',               // This value of the custom variable.  Required parameter.
+		                  2                    // Sets the scope to session-level.  Optional parameter.
+		               ]);
+		  }
+		 
+	  
+	  
+	  
+         
+         _gaq.push(['_setCustomVar',
+                   3,                   // This custom var is set to slot #3.  Required parameter.
+                   'UserType',     // The name acts as a kind of category for the user activity.  Required parameter.
+                   'Unknown_Visitor_Basic',               // This value of the custom variable.  Required parameter.
+                   2                    // Sets the scope to session-level.  Optional parameter.
+                ]);
+          
+         
+
+
+	  
+      
+      
+ 	      
+ 	      
+	  	 
+	        
+          
+          
+          
+           
+
+	        
+	        
+            
+            
+		 
+		 
+				
+				
+					
+				
+			
+				
+					
+           
+					
+             
+            		
+		
+	     
+	        
+          
+          
+          
+           
+
+	        
+	        
+            
+            
+		 
+		 
+				
+				
+					
+				
+			
+				
+					
+           
+					
+             
+            		
+		
+	     
+ 	      
+				
+
+		
+
+ 	      
+ 	      
+
+  	  
+      
+
+      
+      
+
+      
+         
+           
+ 	      
+        
+        
+        	  _gaq.push(['_trackPageview']);
+        	
+        	  (function() {
+        	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        	    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        	  })();
+	 
+	</script>
+	
+	
+	
+	
+		
+    
+    
+
+    
+    
+	    <!-- Google Code for private tutions Remarketing List -->
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		var google_conversion_id = 966603419;
+		var google_conversion_language = "en";
+		var google_conversion_format = "3";
+		var google_conversion_color = "ffffff";
+		var google_conversion_label = "ME47CPWjwwMQm-X0zAM";
+		var google_conversion_value = 0;
+		/* ]]> */
+		</script>
+		<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+		</script>
+		<noscript>
+		<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/966603419/?label=ME47CPWjwwMQm-X0zAM&amp;guid=ON&amp;script=0"/>
+		</div>
+		</noscript>
+    
+    
+    
+    
+
+
+
+</div>		
+				
+			
+				
+	<!-- This javascript variable(global scope) is declared for need-topic-auto-suggest for cdn -->
+<script>
+function loadScriptAsync(src, callback)
+{
+var s,r,t;
+r = false;
+s = document.createElement('script');
+s.type = 'text/javascript';
+s.src = src;
+s.async = true;
+s.onload = s.onreadystatechange = function() {
+//console.log( this.readyState ); //uncomment this line to see which ready states are called.
+if ( !r && (!this.readyState || this.readyState == 'complete') )
+{
+  r = true;
+  callback!='noCallBack'?callback():"";
+}
+};
+t = document.getElementsByTagName('script')[0];
+t.parentNode.insertBefore(s, t);
+}
+</script>
+
+			
+		<script type="text/javascript">
+			edgeSeverurl = 'https://c.urbanpro.com/';
+			enableCDNAutoSuggest = 'true';
+		</script>			
+	</body>
+	
+</html>
+
