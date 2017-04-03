@@ -27,7 +27,7 @@
 				<h3 class="fs-question">Which subject(s) does the student need help with?</h3>
 
 
-
+				<div id="check"> 
 				<input type="checkbox" name="subjects" value="cs">Computer Science<br>
 				<input type="checkbox" name="subjects" value="english">English<br>
 				<input type="checkbox" name="subjects" value="evs">Environmental studies<br>
@@ -40,18 +40,19 @@
 				<input type="checkbox" name="subjects" value="political_science">Political Science<br>
 				<input type="checkbox" name="subjects" value="sst">Social Science<br>
 				<input type="checkbox" name="subjects" value="history">History<br>
-
+				</div> 
 				<input type="button" name="next" class="next action-button" value="Next"/>
-
+				
 			</fieldset>
 
 			<fieldset>
 				<h3 class="fs-question">Which board is the student affiliated to?</h3>
-
+				<div id="check">
 				<input type="radio" name="affiliation" value="cbse">CBSE<br>
 				<input type="radio" name="affiliation" value="icse">ICSE<br>
 				<input type="radio" name="affiliation" value="state">State Board<br>
 				<input type="radio" name="affiliation" value="international">International Board<br>
+				</div>
 
 				<input type="button" name="previous" class="previous action-button" value="Previous" />
 				<input type="button" name="next" class="next action-button" value="Next"/>
@@ -59,9 +60,11 @@
 
 			<fieldset>
 				<h3 class="fs-question">Where would the student prefer taking the tuition?</h3>
-
+				
+				<div id="check">
 				<input type="radio" name="tuition_location" value="student_home">At student's location<br>
 				<input type="radio" name="tuition_location" value="tutor_home">At tutor's location<br>
+				</div>
 
 				<input type="button" name="previous" class="previous action-button" value="Previous" />
 				<input type="button" name="next" class="next action-button" value="Next"/>
@@ -70,7 +73,7 @@
 
 			<fieldset>
 				<h3 class="fs-question">On which days the student will take the classes?</h3>
-
+				<div id="check">
 				<input type="checkbox" name="frequency" value="monday">Monday<br>
 				<input type="checkbox" name="frequency" value="tueday">Tueday<br>
 				<input type="checkbox" name="frequency" value="wedneday">Wednesday<br>
@@ -79,14 +82,15 @@
 				<input type="checkbox" name="frequency" value="saturday">Saturday<br>
 				<input type="checkbox" name="frequency" value="sunday">Sunday<br>
 				<input type="checkbox" name="frequency" value="flexible">I'm flexible on days to get the best tutor<br>
-				
+				</div>
+
 				<input type="button" name="previous" class="previous action-button" value="Previous" />
 				<input type="button" name="next" class="next action-button" value="Next"/>
 			</fieldset>
 
 			<fieldset>
 				<h3 class="fs-question">What time is the student available to take the classes?</h3>
-
+				<div id="check">
 				<input type="checkbox" name="time" value="early_morning">Early Morning (6AM-8AM)<br>
 				<input type="checkbox" name="time" value="morning">Morning (8AM-12AM)<br>
 				<input type="checkbox" name="time" value="early_afternoon">Early Afternoon (12PM-3PM)<br>
@@ -94,30 +98,30 @@
 				<input type="checkbox" name="time" value="early_evening">Early Evening (5PM-7PM)<br>
 				<input type="checkbox" name="time" value="late_evening">Late Evening (7PM-10PM)<br>
 				<input type="checkbox" name="frequency" value="sunday">Sunday<br>
-				
+				</div>
 				<input type="button" name="previous" class="previous action-button" value="Previous" />
 				<input type="button" name="next" class="next action-button" value="Next"/>
 			</fieldset>
 
 			<fieldset>
 				<h3 class="fs-question">Do student have a gender preference of tutor?</h3>
-
+				<div id="check">
 				<input type="radio" name="gender_preference" value="male">Male<br>
 				<input type="radio" name="gender_preference" value="female">Female<br>
 				<input type="radio" name="gender_preference" value="any">Any<br>
-
+				</div>
 				<input type="button" name="previous" class="previous action-button" value="Previous" />
 				<input type="button" name="next" class="next action-button" value="Next"/>
 			</fieldset>
 
 			<fieldset>
 				<h3 class="fs-question">What is your expected monthly budget??</h3>
-
+				<div id="check">
 				<input type="radio" name="budget" value="basic"> upto Rs 4000/- <br>
 				<input type="radio" name="budget" value="standard">Rs 4000 - 5500/-<br>
 				<input type="radio" name="budget" value="Experienced">Rs 5500 - 7000/-<br>
 				<input type="radio" name="budget" value="Eite">more than Rs 7000/-<br>
-
+				</div>
 				<input type="button" name="previous" class="previous action-button" value="Previous" />
 				<input type="button" name="next" class="next action-button" value="Next"/>
 			</fieldset>
@@ -127,7 +131,7 @@
 
 				<input type="text" name="name" placeholder="Name" />
 				<input type="text" name="email" placeholder="Email" />
-				<input type="text" name="phone" placeholder="Phone" />
+				<input type="text" name="phone" placeholder="Phone" /><br>
 
 				<input type="button" name="previous" class="previous action-button" value="Previous" />
 				<input type="button" name="next" class="next action-button" value="Next"/>
@@ -138,7 +142,7 @@
 
 				<input type="text" name="house" placeholder="HOUSE/FLAT NO." />
 				<input type="text" name="street" placeholder="STREET" />
-				<input type="text" name="landmark" placeholder="LANDMARK" />
+				<input type="text" name="landmark" placeholder="LANDMARK" /><br>
 
 				<input type="button" name="previous" class="previous action-button" value="Previous" />
 				<input type="submit" name="submit" class="submit action-button" value="Submit" />
